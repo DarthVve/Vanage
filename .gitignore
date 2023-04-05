@@ -26,4 +26,3 @@ config
 
 # Environment files
 .env
-.db.env
